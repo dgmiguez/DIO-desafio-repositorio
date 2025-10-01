@@ -1,2 +1,2 @@
 Link para o Git: https://git-scm.com/
- - Contém Git Bash e Git Gui[D[D[D[D[D[D[D[D[D[D[D[D[C[C(Terminal) [B[B[A[A[B[B[B[B[C[C[D[D[D[C[D[D[D[3~[3~[Cl) e Git GUI(Interface) para otimizar o uso do Git.
+ - Contém Git Bash(Terminal)e Git GUI(Interface) para otimizar o uso do Git.
