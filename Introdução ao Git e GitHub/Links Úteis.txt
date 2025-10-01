@@ -1,2 +1,4 @@
 Link para o Git: https://git-scm.com/
  - Contém Git Bash(Terminal)e Git GUI(Interface) para otimizar o uso do Git.
+Lind para Documentação de Python 3.13.7: https://docs.python.org/pt-br/3/
+ - Contém toda a documentação de Python.
